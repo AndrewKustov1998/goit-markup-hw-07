@@ -1,0 +1,32 @@
+// ----- Base -----
+@import './base/normalize.scss';
+
+// ----- Utils -----
+@import './utils/variables';
+@import './utils/base';
+
+// ----- Components -----
+// Header
+@import './components/logo';
+@import './components/contacts';
+@import './components/socials-block';
+@import './components/navigation';
+@import './components/header';
+// Hero section
+@import './components/button';
+@import './components/hero';
+// Advantages section
+@import './components/advantages';
+// Our specialty section
+@import './components/specialty';
+// Our team section
+@import './components/team';
+// Regular clients section
+@import './components/regular-clients';
+// Portfolio page
+@import './components/portfolio';
+// Footer
+@import './components/footer';
+// Modal window
+@import './components/backdrop';
+@import './components/modal';
